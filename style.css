@@ -22,6 +22,7 @@
 
 body {
     background-color: var(--bg-dark);
+    background: url('2mZyBu.gif');
     color: var(--text);
     min-height: 100vh;
     display: flex;
